@@ -1,0 +1,10 @@
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\bin\Debug\CasoPropuesto_02.exe.config
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\bin\Debug\CasoPropuesto_02.exe
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\bin\Debug\CasoPropuesto_02.pdb
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.csprojAssemblyReference.cache
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.Form1.resources
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.Properties.Resources.resources
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.csproj.GenerateResource.cache
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.csproj.CoreCompileInputs.cache
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.exe
+F:\ARIAN\CasoPropuesto_02\CasoPropuesto_02\obj\Debug\CasoPropuesto_02.pdb
